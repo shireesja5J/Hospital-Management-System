@@ -4,8 +4,8 @@ Know more about in details MyBlog
 The main objective to develop Hospital management system in java is to manage the hospital activity online.
 There will be Three main Actors or Users of the application
 
-doctor
-Admin
-Receptionist.
+1.doctor
+   2.Admin
+       3.Receptionist.
 
 There are three main actors of the system who going to manage or run the complete application. Let’s discuss one by one according to the role and readabilities.
