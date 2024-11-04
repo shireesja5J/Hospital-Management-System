@@ -33,11 +33,7 @@ Technology used in the Hospital Management System project in java
 
 Front -End Jsp, Html, CSS, JS.
 
-Server-side: Servlet.
-
 Back-end: MYSQL.
-
-Server: Tomcat 8.5.
 
 ![image](https://github.com/user-attachments/assets/24d33246-cee5-4a04-b959-995bd40802c0)
 
