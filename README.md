@@ -6,6 +6,6 @@ There will be Three main Actors or Users of the application
 
 1.doctor
    2.Admin
-       3.Receptionist.
+   3.Receptionist.
 
 There are three main actors of the system who going to manage or run the complete application. Let’s discuss one by one according to the role and readabilities.
