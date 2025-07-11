@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f0f0f0;
+}
+
+.login-container {
+  max-width: 300px;
+  margin: 100px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input, button {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+}
+
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background: #007bff;
+  color: white;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: white;
+  margin: 10px 0;
+}
+
+.main {
+  margin-left: 220px;
+  padding: 20px;
+}
